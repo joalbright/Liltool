@@ -1,4 +1,4 @@
-Liltool-App
+Liltool
 ===========
 
 Support for the iOS Liltool App
